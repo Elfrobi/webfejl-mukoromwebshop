@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "webfejl-mukoromwebshop": {
+      "hosting": {
+        "MukoromWebshop": [
+          "webfejl-mukoromwebshop"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "webfejl-mukoromwebshop"
+  }
+}
